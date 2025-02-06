@@ -1,0 +1,15 @@
+C:\Users\JuanD\source\repos\PicoYPlaca\PicoYPlaca\bin\Debug\net8.0\PicoYPlaca.exe
+C:\Users\JuanD\source\repos\PicoYPlaca\PicoYPlaca\bin\Debug\net8.0\PicoYPlaca.deps.json
+C:\Users\JuanD\source\repos\PicoYPlaca\PicoYPlaca\bin\Debug\net8.0\PicoYPlaca.runtimeconfig.json
+C:\Users\JuanD\source\repos\PicoYPlaca\PicoYPlaca\bin\Debug\net8.0\PicoYPlaca.dll
+C:\Users\JuanD\source\repos\PicoYPlaca\PicoYPlaca\bin\Debug\net8.0\PicoYPlaca.pdb
+C:\Users\JuanD\source\repos\PicoYPlaca\PicoYPlaca\obj\Debug\net8.0\PicoYPlaca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuanD\source\repos\PicoYPlaca\PicoYPlaca\obj\Debug\net8.0\PicoYPlaca.AssemblyInfoInputs.cache
+C:\Users\JuanD\source\repos\PicoYPlaca\PicoYPlaca\obj\Debug\net8.0\PicoYPlaca.AssemblyInfo.cs
+C:\Users\JuanD\source\repos\PicoYPlaca\PicoYPlaca\obj\Debug\net8.0\PicoYPlaca.csproj.CoreCompileInputs.cache
+C:\Users\JuanD\source\repos\PicoYPlaca\PicoYPlaca\obj\Debug\net8.0\PicoYPlaca.sourcelink.json
+C:\Users\JuanD\source\repos\PicoYPlaca\PicoYPlaca\obj\Debug\net8.0\PicoYPlaca.dll
+C:\Users\JuanD\source\repos\PicoYPlaca\PicoYPlaca\obj\Debug\net8.0\refint\PicoYPlaca.dll
+C:\Users\JuanD\source\repos\PicoYPlaca\PicoYPlaca\obj\Debug\net8.0\PicoYPlaca.pdb
+C:\Users\JuanD\source\repos\PicoYPlaca\PicoYPlaca\obj\Debug\net8.0\PicoYPlaca.genruntimeconfig.cache
+C:\Users\JuanD\source\repos\PicoYPlaca\PicoYPlaca\obj\Debug\net8.0\ref\PicoYPlaca.dll

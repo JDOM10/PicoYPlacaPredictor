@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\JuanD\\source\\repos\\PicoYPlaca\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F953EE81-E167-4CB1-B068-D3671AB377CB}|PicoYPlaca\\PicoYPlaca.csproj|c:\\users\\juand\\source\\repos\\picoyplaca\\picoyplaca\\services\\predictor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F953EE81-E167-4CB1-B068-D3671AB377CB}|PicoYPlaca\\PicoYPlaca.csproj|solutionrelative:picoyplaca\\services\\predictor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F953EE81-E167-4CB1-B068-D3671AB377CB}|PicoYPlaca\\PicoYPlaca.csproj|c:\\users\\juand\\source\\repos\\picoyplaca\\picoyplaca\\rules\\restrictions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F953EE81-E167-4CB1-B068-D3671AB377CB}|PicoYPlaca\\PicoYPlaca.csproj|solutionrelative:picoyplaca\\rules\\restrictions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F953EE81-E167-4CB1-B068-D3671AB377CB}|PicoYPlaca\\PicoYPlaca.csproj|c:\\users\\juand\\source\\repos\\picoyplaca\\picoyplaca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F953EE81-E167-4CB1-B068-D3671AB377CB}|PicoYPlaca\\PicoYPlaca.csproj|solutionrelative:picoyplaca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F953EE81-E167-4CB1-B068-D3671AB377CB}|PicoYPlaca\\PicoYPlaca.csproj|c:\\users\\juand\\source\\repos\\picoyplaca\\picoyplaca\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F953EE81-E167-4CB1-B068-D3671AB377CB}|PicoYPlaca\\PicoYPlaca.csproj|solutionrelative:picoyplaca\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F953EE81-E167-4CB1-B068-D3671AB377CB}|PicoYPlaca\\PicoYPlaca.csproj|c:\\users\\juand\\source\\repos\\picoyplaca\\picoyplaca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F953EE81-E167-4CB1-B068-D3671AB377CB}|PicoYPlaca\\PicoYPlaca.csproj|solutionrelative:picoyplaca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,12 +43,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Predictor.cs",
+              "DocumentMoniker": "C:\\Users\\JuanD\\source\\repos\\PicoYPlaca\\PicoYPlaca\\Services\\Predictor.cs",
+              "RelativeDocumentMoniker": "PicoYPlaca\\Services\\Predictor.cs",
+              "ToolTip": "C:\\Users\\JuanD\\source\\repos\\PicoYPlaca\\PicoYPlaca\\Services\\Predictor.cs",
+              "RelativeToolTip": "PicoYPlaca\\Services\\Predictor.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T01:43:43.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Restrictions.cs",
               "DocumentMoniker": "C:\\Users\\JuanD\\source\\repos\\PicoYPlaca\\PicoYPlaca\\Rules\\Restrictions.cs",
               "RelativeDocumentMoniker": "PicoYPlaca\\Rules\\Restrictions.cs",
               "ToolTip": "C:\\Users\\JuanD\\source\\repos\\PicoYPlaca\\PicoYPlaca\\Rules\\Restrictions.cs",
               "RelativeToolTip": "PicoYPlaca\\Rules\\Restrictions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T19:11:14.951Z",
               "EditorCaption": ""
@@ -57,20 +74,20 @@
               "RelativeDocumentMoniker": "PicoYPlaca\\Models\\Vehicle.cs",
               "ToolTip": "C:\\Users\\JuanD\\source\\repos\\PicoYPlaca\\PicoYPlaca\\Models\\Vehicle.cs",
               "RelativeToolTip": "PicoYPlaca\\Models\\Vehicle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T18:37:17.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\JuanD\\source\\repos\\PicoYPlaca\\PicoYPlaca\\Program.cs",
               "RelativeDocumentMoniker": "PicoYPlaca\\Program.cs",
               "ToolTip": "C:\\Users\\JuanD\\source\\repos\\PicoYPlaca\\PicoYPlaca\\Program.cs",
               "RelativeToolTip": "PicoYPlaca\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T18:28:54.86Z",
               "EditorCaption": ""

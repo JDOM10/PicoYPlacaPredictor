@@ -9,12 +9,10 @@ namespace PicoYPlaca.Models
     public class Vehicle
     {
         private string plate;
-        private int lastDigit;
 
         public Vehicle(string plate)
         {
             this.plate = plate;
-            this.lastDigit = int.Parse(plate.Substring(plate.Length - 1));
         }
 
         public string Plate
@@ -23,9 +21,9 @@ namespace PicoYPlaca.Models
             set { this.plate = value; }
         }
 
-        public int LastDigit
+        public int GetLastDigit()
         {
-            get { return this.lastDigit; }
+            return int.Parse(plate.Substring(plate.Length - 1)); 
         }
 
 
